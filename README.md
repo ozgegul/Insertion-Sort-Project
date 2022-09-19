@@ -17,6 +17,7 @@ n(n+1)/2 = O(n²)
 4. "18" is the average case after the array is sorted.
 
 --> Write the first 4 steps of [7,3,5,8,2,9,4,15,6] according to Insertion Sort:
+
     1- [2,3,5,8,7,9,4,15,6]
     2- [2,3,4,8,7,9,5,15,6]
     3- [2,3,4,5,7,9,8,15,6]
